@@ -1,0 +1,1 @@
+{"version":3,"sources":["test.scss"],"names":[],"mappings":"AAAA,KACE,iBAEF,KACE,QAAA,CACA,eAAA,CACA,WAEF,SACE,YAEF,GACE","file":"test.c6b85172.css","sourceRoot":"..","sourcesContent":["html {\n  min-height: 100vh;\n}\nbody {\n  margin: 0;\n  background: #bbb;\n  color: #fff;\n}\n#scroll1 {\n  width: 100vw;\n}\nh2 {\n  padding-top: 320px;\n}\n"]}

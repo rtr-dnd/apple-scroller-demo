@@ -1,0 +1,1 @@
+{"version":3,"sources":["node_modules/apple-scroller/style.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"test.e98b79dd.css","sourceRoot":"..","sourcesContent":[".apple-scroller-container {\n  width: 100vw;\n  position: relative;\n}\n.apple-scroller-canvas {\n  position: sticky;\n  top: 0;\n  max-height: 100vh;\n  max-width: 100vw;\n}"]}
